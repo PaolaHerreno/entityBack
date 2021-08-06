@@ -7,7 +7,7 @@
 ### Lancer en mode dev
 <ol>
     <li><pre>pip install -r requirements.txt</pre> pour intaller les dépendences</li>
-    <li<pre>py essai.py</pre> pour lancer le serveur</li>
+    <li><pre>py essai.py</pre> pour lancer le serveur</li>
 </ol>
 
 ### Creer une image docker.
